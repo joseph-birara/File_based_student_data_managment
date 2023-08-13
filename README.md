@@ -29,7 +29,7 @@ The University Student Data Management repository showcases a console applicatio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/university-student-data.git
+   git clone https://github.com/joseph-birara/File_based_student_data_managment_system.git
    cd university-student-data
 2. Compile and run the C++ code using a compatible compiler to access the data management functionalities.
 
@@ -38,7 +38,7 @@ The University Student Data Management repository showcases a console applicatio
 - [Joseph Birara](https://github.com/joseph-birara)
 - [Kalkidan Tadu](https://github.com/KALkidan-Tadu)
 - [Anani Samuel](https://github.com/anani-samuel)
-- ...
+
 
 
 
